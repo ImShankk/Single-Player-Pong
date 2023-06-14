@@ -22,9 +22,9 @@ PADDLE_SPEED = 5
 
 # Define ball properties
 BALL_RADIUS = 10
-BALL_SPEED_EASY = 3
-BALL_SPEED_MEDIUM = 4
-BALL_SPEED_HARD = 6
+BALL_SPEED_EASY = 4
+BALL_SPEED_MEDIUM = 6
+BALL_SPEED_HARD = 8
 
 # Define game variables
 score = 0
